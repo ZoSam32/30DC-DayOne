@@ -50,3 +50,6 @@ aws configure
 ```
 python3 src/weather_dashboard.py
 ```
+Sample output
+
+![Output](image.png)

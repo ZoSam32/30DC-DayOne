@@ -6,6 +6,9 @@ The project is a weather data collection script that uses the following tech.
 - External API (OpenWeather API)
 - AWS S3
 - Python development
+It is a local python script that creates and/or validates that a S3 bucket exist. It then pulls the current weather status from the OpenWeather API. Then it uploads the results in JSON format to S3. 
+
+![Overview](overview.png)
 
 ## Features
 - Fetches real-time weather data for multiple cities

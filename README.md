@@ -39,7 +39,7 @@ pip3 install -r requirements.txt
 ```
 4. Configure environment variables (.env). **CAUTION**: Do **NOT** check your .env file into source control
 ```
-CopyOPENWEATHER_API_KEY=your_api_key
+OPENWEATHER_API_KEY=your_api_key
 AWS_BUCKET_NAME=your_bucket_name
 ```
 5. Configure your local AWS credentials. AWS reference [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html#cli-configure-files-methods)
